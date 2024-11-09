@@ -1,0 +1,15 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    text-align: center;
+    box-sizing: border-box;
+}
+body{
+    background-color: #33e71f;
+    color: white;
+    
+}
+
+#score,#Status{
+    color: blue;
+}
